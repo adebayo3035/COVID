@@ -1,0 +1,46 @@
+#main-header{
+	background-color: coral;
+	/* color is the text color */
+	color:#fff;
+}
+#navbar{
+	background-color: #333;
+	color:#fff;
+}
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+#navbar li{
+	display:inline;
+}
+#navbar a{
+	color:#fff;
+	text-decoration:none;
+	font-size:20px;
+	padding-right:15px;
+	float:right;
+}
+.container2{
+	width: 70%;
+	 margin:auto; 
+	 overflow: hidden; 
+}
+.container{
+	width: 100%;
+	 margin:auto; 
+
+	/* overflow: hidden; */
+}
+#main{
+	float:right;
+	width:70%;
+	/* padding:0 30px; */
+	box-sizing: border-box;
+	background-color: :red;
+}
+.table{
+	width:80%;
+	margin-left: 7%;
+	margin-top:2%;
+}
